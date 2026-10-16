@@ -1,0 +1,55 @@
+# --- course material (not redistributed) ---
+CELAB_ASSIGNMENT_*.pdf
+CELAB_GUIDE_*.pdf
+CELAB_METHODS_*.pdf
+docs/*.pdf
+!docs/figures/*
+
+# --- third-party hardware interface blocks (not redistributed) ---
+SRV02*_NIDAQ_block.slx
+balrob3d_block.slx
+
+# --- MATLAB / Simulink build and cache artefacts ---
+slprj/
+*_sldrt_win64/
+*_grt_rtw/
+codegen/
+*.slxc
+*.slxp
+*.dmr
+*.rxw64
+*.tmw
+*.rsp
+*.bat
+*.asv
+*.autosave
+*.autosave.zip
+*.mexw64
+*.o
+*.obj
+*.elf
+*.hex
+*.eep
+*.dep
+*_targ_data_map.m
+buildinfo.mat
+tmwinternal/
+
+# --- MATLAB logs and figures ---
+*.mat
+*.fig
+*.mlx
+*.slx.r*
+*.slx.autosave*
+
+# --- macOS / editor junk ---
+__MACOSX/
+.DS_Store
+Thumbs.db
+*~.nib
+
+# --- Python tooling ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/

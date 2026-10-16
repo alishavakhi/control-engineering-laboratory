@@ -1,0 +1,13 @@
+# Python tooling for this repository.
+#
+# MATLAB is the primary tool for the labs and is NOT installed from here. These
+# packages only support:
+#   * regenerating docs/figures from the CSV signal extracts
+#     (matplotlib, numpy, scipy)
+#   * running tools/static_checks.py, which has no dependencies beyond the
+#     standard library
+#
+# Python 3.9+
+matplotlib>=3.7
+numpy>=1.24
+scipy>=1.10
