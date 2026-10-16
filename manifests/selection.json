@@ -1,0 +1,831 @@
+{
+  "files": [
+    {
+      "repo_path": "lab-0-modelling-and-identification/matlab/Parameters.m",
+      "intake_path": "LAB 0/Parameters.m",
+      "sha256": "e85114959b1e5c9aba7467b4f2ac772c6a1c5b4314cdd2d2b805d0a0a2daf267",
+      "bytes": 4516
+    },
+    {
+      "repo_path": "lab-0-modelling-and-identification/matlab/Avg_Am.m",
+      "intake_path": "LAB 0/1stApril/Avg_Am.m",
+      "sha256": "90b55c3341a53dab8acbf71a2ca78456d725c2d80ca1d2dbe2e8ba317d8672cc",
+      "bytes": 959
+    },
+    {
+      "repo_path": "lab-0-modelling-and-identification/simulink/Lab0.slx",
+      "intake_path": "LAB 0/Fri 2103/Lab0.slx",
+      "sha256": "536b5c68a0505136ebccdbf9cb817d8614469aeb16815d981ed00880018f28b1",
+      "bytes": 131622
+    },
+    {
+      "repo_path": "lab-0-modelling-and-identification/simulink/Lab0_actual.slx",
+      "intake_path": "LAB 0/Fri 2103/Lab0_actual.slx",
+      "sha256": "4f8dca26ad2634149bcda471107df352a22798d0e4be2eac209fad10d6b9abce",
+      "bytes": 170165
+    },
+    {
+      "repo_path": "lab-0-modelling-and-identification/simulink/DCServomotor_Cpy.slx",
+      "intake_path": "LAB 0/Fri 2103/DCServomotor_Cpy.slx",
+      "sha256": "cc9a0829fcee51100ad79be505f304a58f2ed51097c4a75e761e8ec4128863eb",
+      "bytes": 141232
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/matlab/Parameters.m",
+      "intake_path": "LAB 1/LAB1_done_0404/Actual_tests/Parameters.m",
+      "sha256": "d3aab5e9c0b8bb511705f35f3435b7614be99e1d7776243d37e5512692b94ed3",
+      "bytes": 4955
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/matlab/Lab1_Nom_Tracking.m",
+      "intake_path": "LAB 1/LAB1_done_0404/Actual_tests/Lab1_Nom_Tracking.m",
+      "sha256": "be769b50b1c97e587b6d2f58f956d1f9fe4cadbf0f157871de32c7def356c8a2",
+      "bytes": 250
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/matlab/Lab1_Robust_Tracking.m",
+      "intake_path": "LAB 1/LAB1_done_0404/Actual_tests/Lab1_Robust_Tracking.m",
+      "sha256": "b48cfd0e1905df0489d87ca951309ba39d9b6da0d8b8b533d5e88921c735ea20",
+      "bytes": 430
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/matlab/Lab1_Robust_Tracking_Error_Space.m",
+      "intake_path": "LAB 1/LAB1_done_0404/Actual_tests/Lab1_Robust_Tracking_Error_Space.m",
+      "sha256": "2a8252d456d172e001e3b7ef9a98233cd6fd25b8898a14bc7bda0cc66d1b913d",
+      "bytes": 616
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/simulink/Lab1_3_1_1_AntiWindup.slx",
+      "intake_path": "LAB 1/LAB1_done_0404/Actual_tests/Lab1_3_1_1_AntiWindup.slx",
+      "sha256": "0004b4feed83e4af8eefba311f9cb9a6f9a9c525a909678ba08f443500b8f7f3",
+      "bytes": 136658
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/simulink/Lab1_3_1_2_AccProfile.slx",
+      "intake_path": "LAB 1/LAB1_done_0404/Actual_tests/Lab1_3_1_2_AccProfile.slx",
+      "sha256": "a707b41884d22e9d1bfceec3e24a358462bdf855ea4e7441e7027229cb5e5aec",
+      "bytes": 151027
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/simulink/Lab1_3_1_2_AccProfileFF.slx",
+      "intake_path": "LAB 1/LAB1_done_0404/Actual_tests/Lab1_3_1_2_AccProfileFF.slx",
+      "sha256": "2d8f866213ceb25fb773436e598f23e10f7afee29f42de46edac33a21f6d6345",
+      "bytes": 163246
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/simulink/Lab1_3_1_2_Feedforward.slx",
+      "intake_path": "LAB 1/LAB1_done_0404/Actual_tests/Lab1_3_1_2_Feedforward.slx",
+      "sha256": "a0272394ff95e9c673c4fe7bc4b7cff2c0b85ef93117f5b11493f6d5fc379cde",
+      "bytes": 147641
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/simulink/Lab1_3_2_1_Nominal.slx",
+      "intake_path": "LAB 1/LAB1_done_0404/Actual_tests/Lab1_3_2_1_Nominal.slx",
+      "sha256": "dcdfd6c2ca8743b5db79ccfa202adec03dadcf3553ca2769f493eaef61981b07",
+      "bytes": 136474
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/simulink/Lab1_3_2_2_Robust.slx",
+      "intake_path": "LAB 1/LAB1_done_0404/Actual_tests/Lab1_3_2_2_Robust.slx",
+      "sha256": "31138efa61a233fd2a6c38a3277a01c716eab4244be1f8f3d0a1332ea0fc5579",
+      "bytes": 132985
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/simulink/Lab1_3_2_2_Robust_AntiWindup.slx",
+      "intake_path": "LAB 1/LAB1_done_0404/Actual_tests/Lab1_3_2_2_Robust_AntiWindup.slx",
+      "sha256": "2322b6a5f281ceee6170e34e4c79aef1d46bf519418db5287a415913f89f707c",
+      "bytes": 134237
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/simulink/Lab1_3_2_3_RobustErrorSpc.slx",
+      "intake_path": "LAB 1/LAB1_done_0404/Actual_tests/Lab1_3_2_3_RobustErrorSpc.slx",
+      "sha256": "2fbf2a641af18b06e19e027738e30afcd6643f6cdddc48916646019cf80a7756",
+      "bytes": 132473
+    },
+    {
+      "repo_path": "lab-2-digital-control/matlab/Parameters.m",
+      "intake_path": "LAB 2/Actual Test  - Part 2/Parameters.m",
+      "sha256": "9771433836884a6ea8c33746abe812119deea7dd46ffc7e56721a5c44050e925",
+      "bytes": 5243
+    },
+    {
+      "repo_path": "lab-2-digital-control/matlab/Lab_2_2_2.m",
+      "intake_path": "LAB 2/Actual Test  - Part 2/Lab_2_2_2.m",
+      "sha256": "268a565bb58e7ff14b9f14f952ce4dab236d88b301017d95a6b442622a5bdc71",
+      "bytes": 1577
+    },
+    {
+      "repo_path": "lab-2-digital-control/matlab/Lab_2_2_4.m",
+      "intake_path": "LAB 2/Actual Test  - Part 2/Lab_2_2_4.m",
+      "sha256": "31ea9719e0703b51307753c8d3ce5f2c8f6eff145ca0183e731d50a17370dbd8",
+      "bytes": 346
+    },
+    {
+      "repo_path": "lab-2-digital-control/matlab/FF_DT.m",
+      "intake_path": "LAB 2/FF_DT.m",
+      "sha256": "239871fa28d9749fdc855634ab01af945c06a81bdcb9863ce8325ffea38e511e",
+      "bytes": 172
+    },
+    {
+      "repo_path": "lab-2-digital-control/matlab/Lab2_Nominal_Reduced_Order.m",
+      "intake_path": "LAB 2/Lab2_Nominal_Reduced_Order.m",
+      "sha256": "c691c98c1d0056551bd67461188b27117932fcb012d7f53c3c9e4d6cac7de17c",
+      "bytes": 428
+    },
+    {
+      "repo_path": "lab-2-digital-control/matlab/Lab2_Nominal_Reduced_Order_DT.m",
+      "intake_path": "LAB 2/Lab2_Nominal_Reduced_Order_DT.m",
+      "sha256": "88bbda186cb4ad53d648c5383508791bb2e90d478b4c9a84c3fb2ff2dfda7d4f",
+      "bytes": 480
+    },
+    {
+      "repo_path": "lab-2-digital-control/matlab/Lab2_Robust_Reduced_Order.m",
+      "intake_path": "LAB 2/Lab2_Robust_Reduced_Order.m",
+      "sha256": "ff6cff88db25b0c6f21d6841e6b9ac39c039a8637254422eecd884cea95552b9",
+      "bytes": 440
+    },
+    {
+      "repo_path": "lab-2-digital-control/simulink/Lab2_2_1_1_1_BE.slx",
+      "intake_path": "LAB 2/Lab2_2_1_1_1_BE.slx",
+      "sha256": "9800658982e2c3a1a998cbfd2eb313984a0edd19f5e9ce4bdd8ecf67960d6349",
+      "bytes": 158108
+    },
+    {
+      "repo_path": "lab-2-digital-control/simulink/Lab2_2_1_1_1_FE.slx",
+      "intake_path": "LAB 2/Lab2_2_1_1_1_FE.slx",
+      "sha256": "dfe32127b96e16b87b3ff8505f691704d3a93bc6d71362d5e507afd10387ee70",
+      "bytes": 168669
+    },
+    {
+      "repo_path": "lab-2-digital-control/simulink/Lab2_2_1_1_1_Tustin.slx",
+      "intake_path": "LAB 2/Lab2_2_1_1_1_Tustin.slx",
+      "sha256": "c46c6ccd23aae9b7c9728cf74e90990570db8051b06bde4138631bbf1722c088",
+      "bytes": 168329
+    },
+    {
+      "repo_path": "lab-2-digital-control/simulink/Lab2_2_1_1_3_BE_AntiWindup.slx",
+      "intake_path": "LAB 2/Lab2_2_1_1_3_BE_AntiWindup.slx",
+      "sha256": "4e7ddcc419a22ee90708859c4bce2adf61b625eed2f8b481063852ca489a89e5",
+      "bytes": 160874
+    },
+    {
+      "repo_path": "lab-2-digital-control/simulink/Lab2_2_1_1_4_BE_FF.slx",
+      "intake_path": "LAB 2/Lab2_2_1_1_4_BE_FF.slx",
+      "sha256": "32d15cb78121b8af4ecd01170f1cd5170ff08539950b9fdd48ca02c75c2f310f",
+      "bytes": 186029
+    },
+    {
+      "repo_path": "lab-2-digital-control/simulink/Lab2_2_1_1_4_BE_FF_wAntiWindup.slx",
+      "intake_path": "LAB 2/Lab2_2_1_1_4_BE_FF_wAntiWindup.slx",
+      "sha256": "494a985413d01f04f8aa1b54568344764a3e934ba31d2bf002de251ad90fc85d",
+      "bytes": 168165
+    },
+    {
+      "repo_path": "lab-2-digital-control/simulink/Lab2_2_1_2_1_Nominal_Reduced_Order.slx",
+      "intake_path": "LAB 2/Lab2_2_1_2_1_Nominal_Reduced_Order.slx",
+      "sha256": "7597530a8837eba1a1a29d4de2988af31acc1ca81fe295c802ad3560bb09e5b1",
+      "bytes": 164285
+    },
+    {
+      "repo_path": "lab-2-digital-control/simulink/Lab2_2_1_2_3_Nominal_Reduced_Order_DT.slx",
+      "intake_path": "LAB 2/Lab2_2_1_2_3_Nominal_Reduced_Order_DT.slx",
+      "sha256": "e9e66cafafe62855283ab44156be7b8f128097d87208596fc0c8ceedd92b7e1c",
+      "bytes": 160942
+    },
+    {
+      "repo_path": "lab-2-digital-control/simulink/Lab2_2_1_2_5_Robust_Reduced_Order.slx",
+      "intake_path": "LAB 2/Lab2_2_1_2_5_Robust_Reduced_Order.slx",
+      "sha256": "ac075eba5a14f31740b75adc51e83e59fd7544a9781abc101e6fb020bd8dcff6",
+      "bytes": 166061
+    },
+    {
+      "repo_path": "lab-2-digital-control/simulink/Lab2_2_1_2_6_Robust_Reduced_Order_DT.slx",
+      "intake_path": "LAB 2/Lab2_2_1_2_6_Robust_Reduced_Order_DT.slx",
+      "sha256": "e1f3a9252d8f72fc204df49a290efb45881d1181bd637036ad7a77892ccd790b",
+      "bytes": 165720
+    },
+    {
+      "repo_path": "lab-2-digital-control/simulink/Lab_2_2_2_observer_design.slx",
+      "intake_path": "LAB 2/Untitled folder/Lab_2_2_2_observer_design.slx",
+      "sha256": "0d74f5675a9dd18d5983ccaec32d460bd3cfa0c7903668e283c64c27469c88fb",
+      "bytes": 87400
+    },
+    {
+      "repo_path": "lab-2-digital-control/simulink/final_2_2_4.slx",
+      "intake_path": "LAB 2/Untitled folder/final_2_2_4.slx",
+      "sha256": "17b21c714face2ef484a31a1fb170a9f77ae3cba3d3415f70081f91f6e933320",
+      "bytes": 77621
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/matlab/Parameters_Resonant_Load.m",
+      "intake_path": "Lab 3/Lab3_16_05_Done/Lab 3_Motor/Parameters_Resonant_Load.m",
+      "sha256": "686b7fe054670c156ad9b9efc6e169218e96d312e7b1f9e27d4d7a9612b32368",
+      "bytes": 4539
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/matlab/PID_Parameters.m",
+      "intake_path": "Lab 3/Lab3_16_05_Done/Lab 3_Motor/PID_Parameters.m",
+      "sha256": "4f9f50b3bc826f7ea09d2dff2f122e8c5e589a1f3c77f7ef21e7c418e4eeec44",
+      "bytes": 1103
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/matlab/Nom_Tracking_Resonant_Load.m",
+      "intake_path": "Lab 3/Lab3_16_05_Done/Lab 3_Motor/Nom_Tracking_Resonant_Load.m",
+      "sha256": "ccc08527e832825fd684ffa3ff15a4fd6fb2a144cba43f82d9b600c7bb1fe4b2",
+      "bytes": 733
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/matlab/Rob_Tracking_Resonant_Load.m",
+      "intake_path": "Lab 3/Lab3_16_05_Done/Lab 3_Motor/Rob_Tracking_Resonant_Load.m",
+      "sha256": "a7316a968f926b79520152fe41b92c2b88d6cf7f9484dd09e4e2e56672c883b7",
+      "bytes": 951
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/matlab/LQR_Nom_Tracking_Resonant_Load.m",
+      "intake_path": "Lab 3/Lab3_16_05_Done/Lab 3_Motor/LQR_Nom_Tracking_Resonant_Load.m",
+      "sha256": "5f9bb811bed496b6b083c7c76cdcb751b276ed9a51106fb2d582214b90a9d697",
+      "bytes": 1032
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/matlab/LQR_Nom_Tracking_Resonant_Load_Bryson.m",
+      "intake_path": "Lab 3/Lab3_16_05_Done/Lab 3_Motor/LQR_Nom_Tracking_Resonant_Load_Bryson.m",
+      "sha256": "6059daa40eee233f0d221103841cc88b09346e8e8063a33d5fb831571b798c18",
+      "bytes": 936
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/matlab/LQR_Rob_Tracking_Resonant_Load.m",
+      "intake_path": "Lab 3/Lab3_16_05_Done/Lab 3_Motor/LQR_Rob_Tracking_Resonant_Load.m",
+      "sha256": "a0e6499eb9104d2ce3d2f10fba76f74bf8d3c276dfc941200e6dc566bf029c19",
+      "bytes": 1004
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/matlab/estimation.m",
+      "intake_path": "Lab 3/Lab3_16_05_Done/estimation.m",
+      "sha256": "4822df020f1399815b3dfb4bc0335ed3973387ac67ad91f501be5c36f5445547",
+      "bytes": 405
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/matlab/estimation_code.m",
+      "intake_path": "Lab 3/Lab3_16_05_Done/estimation_code.m",
+      "sha256": "f51df7d4f9aa9d200a227f1b43b7894cf6d3441ecf88203687721a0b17dd8e0d",
+      "bytes": 848
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/matlab/state-space/parameters.m",
+      "intake_path": "Lab 3/SS and LQR/parameters.m",
+      "sha256": "941d15cfb911f108149f4f9ea8cac12678428dbdbdcf2d1e402bc7f61d1467d8",
+      "bytes": 5205
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/matlab/state-space/position_SS_2_3_1.m",
+      "intake_path": "Lab 3/SS and LQR/position_SS_2_3_1.m",
+      "sha256": "3a926999494b34866b5387e03c8ad1d6bf8aba658297af60e6a6d61aa68042d9",
+      "bytes": 724
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/matlab/state-space/position_SS_2_3_3.m",
+      "intake_path": "Lab 3/SS and LQR/position_SS_2_3_3.m",
+      "sha256": "e13202691039ada8ffd557ec9cfa2299eead5aaf6fe492c2278d6da4b95d878d",
+      "bytes": 679
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/matlab/state-space/position_SS_2_4_1.m",
+      "intake_path": "Lab 3/SS and LQR/position_SS_2_4_1.m",
+      "sha256": "e8be99e7666594451f2550162ffeeecea5d85b2bc63ff2e915b66ba41fdb64fe",
+      "bytes": 214
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/matlab/state-space/position_SS_2_4_3.m",
+      "intake_path": "Lab 3/SS and LQR/position_SS_2_4_3.m",
+      "sha256": "48ba0882504850c70ab7c644f0b61319a4e4659c056d9a30f115b053c5686a2e",
+      "bytes": 469
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/matlab/state-space/position_SS_2_4_5.m",
+      "intake_path": "Lab 3/SS and LQR/position_SS_2_4_5.m",
+      "sha256": "22d938f60c3ff4f72895ceae95e1aa3bb0ab86211081cdd7cbb841cb08dada3a",
+      "bytes": 520
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/simulink/ResLoad_Nom.slx",
+      "intake_path": "Lab 3/Lab3_16_05_Done/Lab 3_Motor/ResLoad_Nom.slx",
+      "sha256": "da77a2a3ef838b1fc5241c3fc48bbd5be225dde66b868b51e4e6f5eacb97125c",
+      "bytes": 156381
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/simulink/ResLoad_Rob.slx",
+      "intake_path": "Lab 3/Lab3_16_05_Done/Lab 3_Motor/ResLoad_Rob.slx",
+      "sha256": "ec44cb84ec37a83dff75c6c73dc6abcc92c29d14744a1eb5b579ab9278f1f744",
+      "bytes": 166930
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/simulink/LQR_ResLoad_Nom.slx",
+      "intake_path": "Lab 3/Lab3_16_05_Done/Lab 3_Motor/LQR_ResLoad_Nom.slx",
+      "sha256": "c3de0414aed16b8127a065954ff55ed1ad7ec126986d144f982706a944d58d11",
+      "bytes": 156345
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/simulink/LQR_Br_ResLoad_Nom.slx",
+      "intake_path": "Lab 3/Lab3_16_05_Done/Lab 3_Motor/LQR_Br_ResLoad_Nom.slx",
+      "sha256": "a6e315d4aa81fd7416a77fa01ea41c1457c1be521919814fc160cee94769daec",
+      "bytes": 156728
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/simulink/Resonant_Load_PID.slx",
+      "intake_path": "Lab 3/Lab3_16_05_Done/Lab 3_Motor/Resonant_Load_PID.slx",
+      "sha256": "92b2b13bec5db275f08a209ea90df253c33a73159886b1c3bd3a63f4eb9070bd",
+      "bytes": 139164
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/simulink/Lab3_2_3_1.slx",
+      "intake_path": "Lab 3/SS and LQR/Lab3_2_3_1.slx",
+      "sha256": "438dd0b96c6cd666c4026dfbc643eb2b718ec7e83a122712587330a8b989e3d8",
+      "bytes": 73913
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/simulink/Lab3_2_3_3.slx",
+      "intake_path": "Lab 3/SS and LQR/Lab3_2_3_3.slx",
+      "sha256": "ae7938792e9d02e7d4eae09dc4a3962eb2a8bd89347849d262f3f04005def401",
+      "bytes": 76690
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/simulink/Lab3_2_4_1.slx",
+      "intake_path": "Lab 3/SS and LQR/Lab3_2_4_1.slx",
+      "sha256": "2ae82bf7971d819439f13931cadfff8434fd48472ec7936b13b5c236c967088e",
+      "bytes": 73604
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/simulink/Lab3_2_4_3.slx",
+      "intake_path": "Lab 3/SS and LQR/Lab3_2_4_3.slx",
+      "sha256": "f3c5d9a50f14e4c5f66490093a08c4c8c671091eac23049121604ddeed49ac88",
+      "bytes": 73868
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/simulink/Lab3_2_4_5.slx",
+      "intake_path": "Lab 3/SS and LQR/Lab3_2_4_5.slx",
+      "sha256": "009f1a1f2f0865883b5fcd0d6cd44a73dfc87170f3c08d6bc90fdd7924c3743b",
+      "bytes": 77012
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/simulink/DCServomotorWResLoad_Nominal_Tracking_Quanser.slx",
+      "intake_path": "Lab 3/DCServomotorWResLoad_Nominal_Tracking_Quanser.slx",
+      "sha256": "9733590621b46516820f23384bbad8bd1a1cb906faf4f0585a4d52155dbad89a",
+      "bytes": 158850
+    },
+    {
+      "repo_path": "lab-3-resonant-load-lqr/simulink/DCServomotorWResLoad_PID_Quanser.slx",
+      "intake_path": "Lab 3/DCServomotorWResLoad_PID_Quanser.slx",
+      "sha256": "bdabd082743a23fbfb2f9f0b10d67e84892ea2e9eefd0e48542ae06292bf3b31",
+      "bytes": 128255
+    },
+    {
+      "repo_path": "lab-4-balancing-robot/matlab/BalRob_Params.m",
+      "intake_path": "Lab 4/Lab4_done/BalRob_Params.m",
+      "sha256": "0a741883464e21f10b3b7e5bb17e305dd59d19312c6f94830502b4c30f97e78b",
+      "bytes": 8002
+    },
+    {
+      "repo_path": "lab-4-balancing-robot/matlab/Nominal_Tracking.m",
+      "intake_path": "Lab 4/Lab4_done/Nominal_Tracking.m",
+      "sha256": "9a564ac85b767daf8dfe4683f0f09ba1d418a243f97f46cdc3a8337ecb565695",
+      "bytes": 715
+    },
+    {
+      "repo_path": "lab-4-balancing-robot/matlab/Robust_Tracking.m",
+      "intake_path": "Lab 4/Lab4_done/Robust_Tracking.m",
+      "sha256": "903f72e8884b764a7c2112d50c41f4c7e17960443b82bd946a60f80451644630",
+      "bytes": 272
+    },
+    {
+      "repo_path": "lab-4-balancing-robot/simulink/Balancing_Robot.slx",
+      "intake_path": "Lab 4/Balancing_Robot.slx",
+      "sha256": "db3350043e65d2774bb0336fd6927ed44209cd95eb6762872fcbe6b2173128d8",
+      "bytes": 126368
+    },
+    {
+      "repo_path": "lab-4-balancing-robot/simulink/Balancing_Robot_Nom_Tracking.slx",
+      "intake_path": "Lab 4/Balancing_Robot_Nom_Tracking.slx",
+      "sha256": "6878ca28160a3187fd07e3938dd04f6a5734692c604f6887b27db943dfd4db0e",
+      "bytes": 166270
+    },
+    {
+      "repo_path": "lab-4-balancing-robot/simulink/Balancing_Robot_Rob_Tracking.slx",
+      "intake_path": "Lab 4/Balancing_Robot_Rob_Tracking.slx",
+      "sha256": "7f8e4f64b5221b82c89c691808e186b2e8476fcf788f04c1ce14ea9d87c4fa8f",
+      "bytes": 165179
+    },
+    {
+      "repo_path": "lab-4-balancing-robot/simulink/Balancing_Robot_Nom_Tracking_Quanser.slx",
+      "intake_path": "Lab 4/Balancing_Robot_Nom_Tracking_Quanser.slx",
+      "sha256": "799c99e1b4cec7603b832ddfd5ae7cea7ff1d5b6ed35833cca30a62e2c607f3f",
+      "bytes": 179169
+    },
+    {
+      "repo_path": "lab-4-balancing-robot/simulink/Balancing_Robot_Robust.slx",
+      "intake_path": "Lab 4/Lab4_done/Balancing_Robot_Robust.slx",
+      "sha256": "7224d1dd6d141705e6362e63a3787065379671ed0784e49896040f4f1a742de2",
+      "bytes": 137168
+    },
+    {
+      "repo_path": "lab-4-balancing-robot/simulink/Rob_Tracking_lab.slx",
+      "intake_path": "Lab 4/Lab4_done/Rob_Tracking_lab.slx",
+      "sha256": "99f338eae52253295fb9bdac364f6ab7b7cecfa91755d42674aa13c21ea5ce19",
+      "bytes": 174822
+    },
+    {
+      "repo_path": "lab-4-balancing-robot/simulink/testrun.slx",
+      "intake_path": "Lab 4/Lab4_done/testrun.slx",
+      "sha256": "7e55e5ce410ae2566f7af9677aa1faf0c5724ef43cf87d05eed2961bbfb02fc8",
+      "bytes": 105683
+    },
+    {
+      "repo_path": "lab-4-balancing-robot/simulink/Balancing_Robot_Nominal.slx",
+      "intake_path": "Lab 4/For Tests/Balancing_Robot_Nominal.slx",
+      "sha256": "41cfa5a5ef98934207df96d201d1006481924b6a1757c6755de995bd1d8a30f9",
+      "bytes": 134306
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/AntiWindup step ref.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/AntiWindup step ref.PNG",
+      "sha256": "488ba724c7cce9cd5c6ecd8f8d570a4ca57d4f5cb7bfe9cb1222278323078d3c",
+      "bytes": 31745
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/AntiWindup step ref_info.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/AntiWindup step ref_info.PNG",
+      "sha256": "80058b31ff4082e04738dd9daaa9975da7231273d5d99fe8c4ce73d411d0bb8b",
+      "bytes": 15503
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/AntiWindupFF_Acc.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/AntiWindupFF_Acc.PNG",
+      "sha256": "83a2d8bfd84d4458cf24dfa7f7fefdd05c04630d25d61e1893dd49f9ec8463e3",
+      "bytes": 44793
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/AntiWindup_Acc.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/AntiWindup_Acc.PNG",
+      "sha256": "a3bcb337acc9a914a4f012b9e13c73ea51143f3200379969ce24e0d4b5d08575",
+      "bytes": 42640
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/Nom_120.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/Nom_120.PNG",
+      "sha256": "2b99018acc60328eb34bd9d5ba3bf49dfb60e2012b52e972f849dc095fe933ec",
+      "bytes": 28939
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/Nom_120_info.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/Nom_120_info.PNG",
+      "sha256": "fab9632336f072d7fe5eecfdc6fcb0dffdcf0991fd02269f1c606345f5c35e52",
+      "bytes": 15410
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/Nom_40.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/Nom_40.PNG",
+      "sha256": "7d04abd703a3df8bea8063efd166b9a56b075992fa6b496ed4c7d6474865f893",
+      "bytes": 29654
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/Nom_40_info.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/Nom_40_info.PNG",
+      "sha256": "ddedcdf8bd63eb0b3be624f813c3e3072641501c0968d669130414f1931466d8",
+      "bytes": 15450
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/Nom_70.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/Nom_70.PNG",
+      "sha256": "ec5ae3aad9a57802326b45ea0c690e88ef7e77ad3d4386a2abfde9cac39d73ed",
+      "bytes": 29440
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/Nom_70_info.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/Nom_70_info.PNG",
+      "sha256": "03f87c071572d138054d13b18f135d6ef5de7777c3fc31e7cd89b601ccee847a",
+      "bytes": 15364
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/RobErrSpc_30.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/RobErrSpc_30.PNG",
+      "sha256": "e84ec42b72710c8f92ead161bb589698c9df9a81071244628ac2817d7cb550c1",
+      "bytes": 73089
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/RobErrSpc_60.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/RobErrSpc_60.PNG",
+      "sha256": "c6496722845a2cc286634f77060acd6791386d3c728d3794d2c0171b9d31d613",
+      "bytes": 71384
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/RobErrSpc_90.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/RobErrSpc_90.PNG",
+      "sha256": "08a9a6b8dcd5345486aca27f2158b76a6c8781a8fcf0a401e0a3e0383b501841",
+      "bytes": 69737
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/Rob_120.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/Rob_120.PNG",
+      "sha256": "580b99bc764fe979a186bcc4f14c43e199e4d3c975c15a8f9f5308b1413acbd8",
+      "bytes": 31258
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/Rob_120_AW.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/Rob_120_AW.PNG",
+      "sha256": "be0eed79709e643e291598b9fd8e027fea2b3516763838b441957215476fe201",
+      "bytes": 30972
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/Rob_120_AW_info.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/Rob_120_AW_info.PNG",
+      "sha256": "b5ccceca943841d49981956fd5f5581da8404e7eccdec41c6975599fd3a97e74",
+      "bytes": 15770
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/Rob_120_info.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/Rob_120_info.PNG",
+      "sha256": "57455e0b33664503744c89dac617637dfd792855f2416898f7fc73fd2822a35d",
+      "bytes": 15438
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/Rob_40.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/Rob_40.PNG",
+      "sha256": "767084e127a6e01b00c9ff887bede269b755bbcb3288c823752603a3793abed1",
+      "bytes": 29639
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/Rob_40_AW.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/Rob_40_AW.PNG",
+      "sha256": "183902d96be238d33b8459df871f3122965bb272290e5a768bc80b3bf44d6185",
+      "bytes": 29519
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/Rob_40_AW_info.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/Rob_40_AW_info.PNG",
+      "sha256": "b40f48d8032c639f378a9606d3b42b6aab6d9dada99b2b9c2def6e76e60f94e9",
+      "bytes": 15608
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/Rob_40_info.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/Rob_40_info.PNG",
+      "sha256": "2d868831308ae39ee6601daf3c00ba30a8b754a03c0f83dff671f80ed727e5ae",
+      "bytes": 14771
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/Rob_70.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/Rob_70.PNG",
+      "sha256": "1dbac1a01c0afb5bddbe6860a8f990c53a8d1f3de5feac9435a94203e804f65d",
+      "bytes": 31928
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/Rob_70_AW.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/Rob_70_AW.PNG",
+      "sha256": "aeb08ceef690e073aced09276a1556aac6afcc74efab5f1a2d890c0a6cc83a5e",
+      "bytes": 31428
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/Rob_70_AW_info.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/Rob_70_AW_info.PNG",
+      "sha256": "9a4c22b5fcccac01b90b9a267b11b9bfa677484f9e5a46d98c144d32fcb9048b",
+      "bytes": 15580
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/physical-motor/Rob_70_info.PNG",
+      "intake_path": "LAB 1/Plots and info/Physical Motor/Rob_70_info.PNG",
+      "sha256": "cc782b283f44183dbb23a6220fce8bc16a532ee0d166655dfe4b2a101eb278c8",
+      "bytes": 15234
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/simulink/Anti-Windup_NoFF_Acc.PNG",
+      "intake_path": "LAB 1/Plots and info/Simulink/Anti-Windup_NoFF_Acc.PNG",
+      "sha256": "43183d892fc48b1d0002685e8d02db0964304c1ac910acc75dc2fec8dadb9a62",
+      "bytes": 43270
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/simulink/AntiWindup step ref no FF.jfif",
+      "intake_path": "LAB 1/Plots and info/Simulink/AntiWindup step ref no FF.jfif",
+      "sha256": "aaef595f9a3ae36a5da287df98d15715ba11e77fb9866f3061771abe7201974c",
+      "bytes": 49602
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/simulink/AntiWindup step ref no FF_info.jfif",
+      "intake_path": "LAB 1/Plots and info/Simulink/AntiWindup step ref no FF_info.jfif",
+      "sha256": "f746b937fa0342c497705f80bd56f14b7324e1952200d819fbf85b57d7430329",
+      "bytes": 41411
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/simulink/AntiWindupFF_Acc.PNG",
+      "intake_path": "LAB 1/Plots and info/Simulink/AntiWindupFF_Acc.PNG",
+      "sha256": "8ed3e9dfbe52a7147c14da3c60bef70e04361d15e5ff7c3107478101a4717171",
+      "bytes": 44558
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/simulink/Nom_120.PNG",
+      "intake_path": "LAB 1/Plots and info/Simulink/Nom_120.PNG",
+      "sha256": "cd4506ed8d6b6daea31ae0190cd053d1741c2bc6a09ebbf142071e8b85cc688a",
+      "bytes": 28520
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/simulink/Nom_120_info.PNG",
+      "intake_path": "LAB 1/Plots and info/Simulink/Nom_120_info.PNG",
+      "sha256": "5467d0462380707aaed48ae6c99fed573049b3607885165bb6056f6461282d46",
+      "bytes": 15416
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/simulink/Nom_40.PNG",
+      "intake_path": "LAB 1/Plots and info/Simulink/Nom_40.PNG",
+      "sha256": "984bb7aaee5c2e223926782e9b8cb9d4bc045de4adb59fbde1fcba2ac6190506",
+      "bytes": 29619
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/simulink/Nom_40_info.PNG",
+      "intake_path": "LAB 1/Plots and info/Simulink/Nom_40_info.PNG",
+      "sha256": "23cc60e620d0eed86ca969a216ee6ba6fb3c21a7deb8625592a4f7fa6680ba84",
+      "bytes": 15436
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/simulink/Nom_70.PNG",
+      "intake_path": "LAB 1/Plots and info/Simulink/Nom_70.PNG",
+      "sha256": "c6e68cdd2cbdc4d63e9ec88413181a8e3bf7a2f9d40e78169d43600c5a5258af",
+      "bytes": 28696
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/simulink/Nom_70_info.PNG",
+      "intake_path": "LAB 1/Plots and info/Simulink/Nom_70_info.PNG",
+      "sha256": "f86d16da1ac5e11f224f2f5e3f916b1d0f58995d2c66d7b22dafc590b93c4b41",
+      "bytes": 15042
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/simulink/RobErrSpc_30.PNG",
+      "intake_path": "LAB 1/Plots and info/Simulink/RobErrSpc_30.PNG",
+      "sha256": "d8a98d173fde9924351886cce7ad6ba4943df45386613ac95b94bbbdde3ac337",
+      "bytes": 109945
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/simulink/RobErrSpc_60.PNG",
+      "intake_path": "LAB 1/Plots and info/Simulink/RobErrSpc_60.PNG",
+      "sha256": "bbf23e2a1a8dd8b7a5e6c99a9ff5ae8fb2d7aa2ff2ccaf45a447e895311a98ff",
+      "bytes": 124042
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/simulink/Rob_120.PNG",
+      "intake_path": "LAB 1/Plots and info/Simulink/Rob_120.PNG",
+      "sha256": "f0c952df086c4fde2a8ffd13832ad2f411d0cec0c23d410e7f0bb2afe8b0256c",
+      "bytes": 32549
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/simulink/Rob_120_info.PNG",
+      "intake_path": "LAB 1/Plots and info/Simulink/Rob_120_info.PNG",
+      "sha256": "0afec2ad1d26a2d9449d28f5ea42000ca34a84367d6fa5fce2ed3259cf07d272",
+      "bytes": 16243
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/simulink/Rob_40.PNG",
+      "intake_path": "LAB 1/Plots and info/Simulink/Rob_40.PNG",
+      "sha256": "3bb98234477b4c3bbc75795f50c796bd6274b63528d7c9fc05b1ffce104cd16e",
+      "bytes": 30327
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/simulink/Rob_40_info.PNG",
+      "intake_path": "LAB 1/Plots and info/Simulink/Rob_40_info.PNG",
+      "sha256": "db3e8d4b23795704e0480cf5cf6159b8dc9b3ba58096415febecde6ae9683b52",
+      "bytes": 15887
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/simulink/Rob_70.PNG",
+      "intake_path": "LAB 1/Plots and info/Simulink/Rob_70.PNG",
+      "sha256": "b5479a2648ff816baef6795fa190c63b70c5ae141ff34c0e13904d5d3dcd8fbc",
+      "bytes": 29499
+    },
+    {
+      "repo_path": "lab-1-state-space-tracking/results/simulink/Rob_70_info.PNG",
+      "intake_path": "LAB 1/Plots and info/Simulink/Rob_70_info.PNG",
+      "sha256": "10d751832dd6c56a07fca82b2a44b48e8437c4c0c40d3df1d2df117e03167979",
+      "bytes": 15808
+    },
+    {
+      "repo_path": "lab-2-digital-control/results/simulation/Lab_2_2_2_TS0.01.png",
+      "intake_path": "LAB 2/simresults/Lab_2_2_2_TS0.01.png",
+      "sha256": "4009f815d67723df01ce8d46d8e4b4318876b752e69f7dc801bb5b2f2681745d",
+      "bytes": 14229
+    },
+    {
+      "repo_path": "lab-2-digital-control/results/simulation/Lab_2_2_2_TS0.05.png",
+      "intake_path": "LAB 2/simresults/Lab_2_2_2_TS0.05.png",
+      "sha256": "de3ee06a55a168e823bf93eb5337779bc7112c9b74fde6f55132ad6f006f5895",
+      "bytes": 13266
+    },
+    {
+      "repo_path": "lab-2-digital-control/results/simulation/Lab_2_2_2_TS0.1.png",
+      "intake_path": "LAB 2/simresults/Lab_2_2_2_TS0.1.png",
+      "sha256": "f4269b48d4f31c661a017037eba719f7d242f25eb9204b3ab401d60c111fa945",
+      "bytes": 15437
+    },
+    {
+      "repo_path": "lab-2-digital-control/results/simulation/Lab_2_2_4_TS0.001.png",
+      "intake_path": "LAB 2/simresults/Lab_2_2_4_TS0.001.png",
+      "sha256": "1c4fd59f6de87f0c942a52268d54e974c6351a09a848c15d39efc097665d4694",
+      "bytes": 13827
+    },
+    {
+      "repo_path": "lab-2-digital-control/results/simulation/Lab_2_2_4_TS0.01.png",
+      "intake_path": "LAB 2/simresults/Lab_2_2_4_TS0.01.png",
+      "sha256": "8ede871a88b201d5d916c516b81e657201b69d788cd544aaf3c378df95cf501e",
+      "bytes": 8449
+    },
+    {
+      "repo_path": "lab-2-digital-control/results/simulation/Lab_2_2_4_TS0.05.png",
+      "intake_path": "LAB 2/simresults/Lab_2_2_4_TS0.05.png",
+      "sha256": "4a9d85077948d5d782774db4ac2d624f0ff48844fbd6927cd2a8abf604213a2b",
+      "bytes": 8150
+    },
+    {
+      "repo_path": "lab-2-digital-control/results/simulation/Lab_3_2_1.png",
+      "intake_path": "LAB 2/simresults/Lab_3_2_1.png",
+      "sha256": "6b36699f808ba62b53306aff9fcaa4d68301c00b94db7b0c0b4cdc49041c1075",
+      "bytes": 14670
+    },
+    {
+      "repo_path": "lab-2-digital-control/results/simulation/Lab_3_2_2.png",
+      "intake_path": "LAB 2/simresults/Lab_3_2_2.png",
+      "sha256": "bea4b7af0844f7000f0ceacc3219b300727b59bd4c8debdfa5ac0ac666b70981",
+      "bytes": 13953
+    },
+    {
+      "repo_path": "lab-2-digital-control/results/simulation/Step_Lab_2_2_2_TS0.001.png",
+      "intake_path": "LAB 2/simresults/Step_Lab_2_2_2_TS0.001.png",
+      "sha256": "ef7296fa971d53e1a57c290534ea492248edbee3f338b8fe30babea6bfdd79f9",
+      "bytes": 13413
+    },
+    {
+      "repo_path": "lab-2-digital-control/results/simulation/Step_Lab_2_2_2_TS0.01.png",
+      "intake_path": "LAB 2/simresults/Step_Lab_2_2_2_TS0.01.png",
+      "sha256": "6c001a65ddeb8ae1a5b520caf3c4c8ea4e260820410045276206b2f23e3ecdc2",
+      "bytes": 11354
+    },
+    {
+      "repo_path": "lab-2-digital-control/results/simulation/Step_Lab_2_2_2_TS0.05.png",
+      "intake_path": "LAB 2/simresults/Step_Lab_2_2_2_TS0.05.png",
+      "sha256": "f60e72c32bda32f5d2b0411b28b0865ac6fc84adbe89335348df66225c5694de",
+      "bytes": 15441
+    },
+    {
+      "repo_path": "lab-2-digital-control/results/simulation/Step_Lab_2_2_4_TS0.001.png",
+      "intake_path": "LAB 2/simresults/Step_Lab_2_2_4_TS0.001.png",
+      "sha256": "45ce2328e5ad106598d767573e605d683fca52bd00d99cf58815e1e3d3689446",
+      "bytes": 11430
+    },
+    {
+      "repo_path": "lab-2-digital-control/results/simulation/Step_Lab_2_2_4_TS0.01.png",
+      "intake_path": "LAB 2/simresults/Step_Lab_2_2_4_TS0.01.png",
+      "sha256": "69a45b25b22fd45490263091c322ef9994c26b4cf099f9e09ab8623ef3849b41",
+      "bytes": 15342
+    },
+    {
+      "repo_path": "lab-2-digital-control/results/simulation/Step_Lab_2_2_4_TS0.05.png",
+      "intake_path": "LAB 2/simresults/Step_Lab_2_2_4_TS0.05.png",
+      "sha256": "62d8f5aeb0b9373a8d84cd7234ba06fea85e5d99a20fb7751a816d860aa98f72",
+      "bytes": 13281
+    },
+    {
+      "repo_path": "lab-2-digital-control/results/simulation/Step_Lab_3_2_1.png",
+      "intake_path": "LAB 2/simresults/Step_Lab_3_2_1.png",
+      "sha256": "dff82c0aa12daf0849048bc45f9cffea51c8a2f7500a8e74b454b12b261db41c",
+      "bytes": 15918
+    },
+    {
+      "repo_path": "lab-2-digital-control/results/simulation/Step_Lab_3_2_2.png",
+      "intake_path": "LAB 2/simresults/Step_Lab_3_2_2.png",
+      "sha256": "b696acbae6f1a2a0ac6bdf863a24b6402c80cf86c46498b57f69d48a5e61a559",
+      "bytes": 15652
+    }
+  ],
+  "count": 133,
+  "missing": [],
+  "raw_logs_extracted_not_published": [
+    {
+      "intake_path": "LAB 0/Fri 2103/ResultsTwo_Speed.mat",
+      "bytes": 3515523,
+      "note": "logged signals extracted to CSV; the .mat workspace is not published"
+    },
+    {
+      "intake_path": "LAB 2/Lab2_2_1_1_1_Tustin_T1.mat",
+      "bytes": 3500117,
+      "note": "logged signals extracted to CSV; the .mat workspace is not published"
+    },
+    {
+      "intake_path": "Lab 3/Lab3_16_05_Done/estimation_raw.mat",
+      "bytes": 10227134,
+      "note": "logged signals extracted to CSV; the .mat workspace is not published"
+    },
+    {
+      "intake_path": "Lab 3/Lab3_16_05_Done/Lab 3_Motor/Nom_Motor_50_Result.mat",
+      "bytes": 5258994,
+      "note": "logged signals extracted to CSV; the .mat workspace is not published"
+    },
+    {
+      "intake_path": "Lab 3/Lab3_16_05_Done/Lab 3_Motor/Rob_Tracking_Motor_50_Result.mat",
+      "bytes": 5331129,
+      "note": "logged signals extracted to CSV; the .mat workspace is not published"
+    }
+  ]
+}
