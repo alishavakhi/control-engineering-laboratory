@@ -97,3 +97,20 @@ automated check.
 - **Lab 4's `Robust_Tracking.m`** computes the integral gain from `dlqr` and then
   assigns an explicit value to `Ki`, keeping both in the file. Both lines are
   preserved as written.
+
+---
+
+## Licence scope moved out of the `LICENSE` file
+
+**Files:** `LICENSE`, new `LICENSE-SCOPE.md`
+
+The MIT licence text was correct, but a "Scope of this licence" section had been
+appended to the same file. GitHub's licence detector matches a file against known
+licence texts, so the extra section made it report **no licence** for this
+repository instead of MIT — a worse result for anyone deciding whether they may
+reuse the code.
+
+The scope text is now in `LICENSE-SCOPE.md` and is referenced from the README's
+*Licence* section. `LICENSE` holds the standard MIT text and nothing else. No
+right or exclusion was changed in the move — the same words, in a file that
+parsers and readers can both use.

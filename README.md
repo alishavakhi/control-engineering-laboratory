@@ -118,6 +118,7 @@ control-engineering-laboratory/
 │                          recomputed in Python and compared against the
 │                          gains recorded in the MATLAB runs
 ├── requirements.txt     Python, for the figure and checking tools only
+├── LICENSE-SCOPE.md     what the licence does and does not cover
 └── LICENSE
 ```
 
@@ -272,7 +273,8 @@ author's own.
 
 ## Licence
 
-Released under the **MIT Licence** — see [`LICENSE`](LICENSE).
+Released under the **MIT Licence** — see [`LICENSE`](LICENSE). The scope is
+written out in full in [`LICENSE-SCOPE.md`](LICENSE-SCOPE.md).
 
 No course-provided document, assignment brief or handout is covered by that
 licence, and none is redistributed. Quanser-provided model blocks are not covered
